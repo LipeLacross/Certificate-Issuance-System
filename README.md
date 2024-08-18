@@ -12,7 +12,9 @@ O Sistema de Emissão de Certificados é uma aplicação web que permite a cria�
 
 ### Exemplo Visual do Projeto
 
-![Exemplo Visual](caminho-para-imagem-exemplo.png)
+![Screenshot 2024-08-18 150159](https://github.com/user-attachments/assets/8083860d-a3c1-4ae3-a62b-3b0ee0d7829e)
+![Screenshot 2024-08-18 145650](https://github.com/user-attachments/assets/d168fc0a-06a0-41f5-9ff3-fe5419e16b32)
+![Screenshot 2024-08-18 150624](https://github.com/user-attachments/assets/8f8503ad-dafa-49d4-a4b6-5df94417383a)
 
 ## ✔️ Técnicas e Tecnologias Utilizadas
 
