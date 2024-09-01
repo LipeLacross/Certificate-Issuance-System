@@ -1,3 +1,5 @@
+## 🌐 [English Version of README](README_EN.md)
+
 # Sistema de Emissão de Certificados
 
 O Sistema de Emissão de Certificados é uma aplicação web que permite a criação, gerenciamento e visualização de certificados. É projetado para facilitar a emissão de certificados de conclusão de cursos, treinamentos e outros eventos.
